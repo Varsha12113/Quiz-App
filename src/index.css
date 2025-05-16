@@ -1,0 +1,18 @@
+body {
+  font-size: 16px;
+  padding: 1rem;
+}
+
+*{
+  font-family: 'Comic Sans MS';
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  height: 100vh;
+  background-image: linear-gradient(rgb(25,31,52),#666873);
+}
